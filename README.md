@@ -1,2 +1,2 @@
 # solidity-my-token-martinezcoin
-Implementation of my own token MZC.
+Implementation of my own token MARTINEZCOIN.
